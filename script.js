@@ -1,4 +1,3 @@
-/*
 console.log("Concatenacao e interpolacao");
 const num = 14.5;
 console.log("O valor do produto é " + num);
@@ -6,7 +5,7 @@ console.log("O valor do produto é " + num);
 console.log(`O valor do produto é ${num}`);
 
 console.log(`Conversao entre number e string`);
-const num = 14.5;
+
 const str1 = num.toString();
 console.log(`O tipo de ${str1} é ${typeof str1}`);
 
@@ -18,7 +17,7 @@ console.log(`O tipo de ${num1} é ${typeof num1}`);
 
 const num2 = parseInt("21");
 console.log(`O tipo de ${num2} é ${typeof num2}`);
-*/
+
 
 const str = "Maria Silva  ";
 
